@@ -1,0 +1,1 @@
+bcrypt --> used to hash passwords
